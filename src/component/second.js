@@ -4,7 +4,7 @@ import React, {useState} from 'react'; //day-2
 
 
 
-
+// ok some changes
 
 
 
@@ -38,7 +38,7 @@ import React, {useState} from 'react'; //day-2
 
 function Second (props) {
     const [num, setNum] = useState(1);
-    };
+    
     return(
         <div>
 
@@ -54,5 +54,5 @@ function Second (props) {
 
         </div>
     );
-}
+    }
 export default Second;
